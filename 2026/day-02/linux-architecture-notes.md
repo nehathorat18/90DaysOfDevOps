@@ -9,7 +9,7 @@
 Kernel is the heart of Linux, meaning the core component which only interacts with hardware.
 
 ### User Space
-User space is a protected memory area where all non-kernel user programs, applications, and most system libraries execute with limited privileges.
+User space is a protected memory area where all non-kernel user programs, applications and most system libraries execute with limited privileges.
 
 ### Init / systemd
 When we start any Linux machine, the first process that runs is called init, and it runs as PID 1.  
@@ -31,7 +31,7 @@ During this process, a background process starts called init, which runs as PID 
 ## What systemd Does and Why It Matters
 
 systemd is basically a system daemon that runs background processes.  
-It manages everything from hardware devices to network connections, controls when programs run, and even handles system logs.
+It manages everything from hardware devices to network connections, controls when programs run and even handles system logs.
 
 ---
 
