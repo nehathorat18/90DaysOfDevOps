@@ -1,5 +1,5 @@
 ## **What is your understanding of DevOps and Cloud Engineering?**
-DevOps is a culture or mindset that collaborates with development and operations teams by reducing time to market, automating repetitive tasks, and scaling to end users.  
+DevOps is a culture or mindset that collaborates with development and operations teams by reducing time to market, automating repetitive tasks and scaling to end users.  
 
 Cloud Engineering is where you handle your application and infrastructure through cloud platforms.
 
@@ -16,7 +16,7 @@ My goal is to become a DevOps engineer and help others learn DevOps and cloud te
 ---
 
 ## **How will you stay consistent every single day?**
-I will stay consistent through proper planning, hands-on practice, and handwritten notes.
+I will stay consistent through proper planning, hands-on practice and handwritten notes.
 
 ---
 
