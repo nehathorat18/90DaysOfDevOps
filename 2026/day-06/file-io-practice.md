@@ -1,7 +1,6 @@
 # Linux Fundamentals: Read and Write Text Files
 
-## Command History (Renumbered)
-
+## Command History
 1. touch notes.txt  
 2. ls  
 3. echo "Line 1" > notes.txt  
