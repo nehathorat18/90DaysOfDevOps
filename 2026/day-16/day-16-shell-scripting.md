@@ -39,7 +39,7 @@ chmod +x hello.sh
    - Asks the user for their name using `read`
    - Asks for their favourite tool
    - Prints: `Hello <name>, your favourite tool is <tool>`
-<img width="1360" height="380" alt="31" src="https://github.com/user-attachments/assets/1d6dac19-7f36-4465-8573-1830e1b443fe" />
+<img width="978" height="298" alt="31" src="https://github.com/user-attachments/assets/5cab589e-7d69-40e6-9c0a-de8ddd52d60e" />
 <img width="695" height="202" alt="3" src="https://github.com/user-attachments/assets/20e55ba0-0d9f-4ccf-bfd6-6b8db987ffd2" />
 
 ---
@@ -49,7 +49,7 @@ chmod +x hello.sh
 1. Create `check_number.sh` that:
    - Takes a number using `read`
    - Prints whether it is **positive**, **negative**, or **zero**
-<img width="1360" height="380" alt="41" src="https://github.com/user-attachments/assets/5d96e547-a5b7-484c-8970-103209380835" />
+<img width="690" height="296" alt="41" src="https://github.com/user-attachments/assets/9a03031e-74e7-4050-9a65-6c8c05d68694" />
 <img width="857" height="410" alt="4" src="https://github.com/user-attachments/assets/52a138f8-0123-4d1e-82e0-631ba59cf3cd" />
 
 2. Create `file_check.sh` that:
