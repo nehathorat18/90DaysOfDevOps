@@ -21,7 +21,7 @@ I will stay consistent through proper planning, hands-on practice and handwritte
 ---
 
 ## **Current Level**
-I’m a working professional with over 3 years of experience.
+I’m a working professional with over 3.5+ years of experience.
 
 ---
 
@@ -38,5 +38,5 @@ Linux, Kubernetes, Terraform
 ---
 
 ## **Allocate a weekly time budget**
-3–4 hours per day on weekdays, 4–5 hours on weekends
+2-3 hours per day on weekdays, 4–5 hours on weekends
 
