@@ -50,6 +50,9 @@ Created a directory named `runbook-demo` in `/tmp`, copied the hosts file into i
 **du -sh /var/log** – Log size is ~44MB; some folders show “permission denied.”  
 **iostat** – CPU mostly idle (~99%), low disk I/O.  
 **vmstat** – Low CPU usage and no swap activity.  
+**dstat** - Realtime system resource monitor CPU DISK MEMORY NETWORK in single live view
+
+<img width="958" height="887" alt="image" src="https://github.com/user-attachments/assets/c628c710-6e64-454b-bef4-821f28d0d1c0" />
 
 ---
 
