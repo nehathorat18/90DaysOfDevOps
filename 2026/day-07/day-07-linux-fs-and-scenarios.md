@@ -3,6 +3,9 @@
 
 
 ## Linux File System Hierarchy – 
+**To check only directories**
+- ls -ld */
+<img width="993" height="582" alt="image" src="https://github.com/user-attachments/assets/423fd148-19ac-4633-95f7-1e1ff3c222d0" />
 
 ### Core Directories (Must Know)
 
