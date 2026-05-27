@@ -6,6 +6,9 @@
 **To check only directories**
 - ls -ld */
 <img width="993" height="582" alt="image" src="https://github.com/user-attachments/assets/423fd148-19ac-4633-95f7-1e1ff3c222d0" />
+**Sorted data by directories & files**
+- ls -ll */
+<img width="1582" height="915" alt="image" src="https://github.com/user-attachments/assets/ee46e00e-8cf6-48eb-8a0a-f0713708ef97" />
 
 ### Core Directories (Must Know)
 
