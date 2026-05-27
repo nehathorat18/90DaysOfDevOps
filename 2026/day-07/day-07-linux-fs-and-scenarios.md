@@ -72,8 +72,9 @@
 ---
 
 ### 🛠️ Hands-on Tasks 
-
+**Point to remember** sort -h : sorted data ascending to descending sort -hr:sorted data in reverse order.
 <img width="1420" height="733" alt="9" src="https://github.com/user-attachments/assets/7ef455eb-f75f-49ef-be46-b0fff5437fd3" />
+<img width="1200" height="941" alt="image" src="https://github.com/user-attachments/assets/75e40b89-fa53-4e1b-9ef9-67d8379e8a36" />
 
 ---
 
