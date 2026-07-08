@@ -16,7 +16,7 @@ My goal is to become a DevOps engineer and help others learn DevOps and cloud te
 ---
 
 ## **How will you stay consistent every single day?**
-I will stay consistent through proper planning, hands-on practice and handwritten notes.
+I will stay consistent through proper planning, hands-on practice, group studies and handwritten notes.
 
 ---
 
