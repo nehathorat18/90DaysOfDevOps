@@ -7,8 +7,8 @@
 3. Compare `ubuntu` vs `alpine` — why is one much smaller?
 4. Inspect an image — what information can you see?
 5. Remove an image you no longer need
-![alt text](1-2.png)
-![alt text](1.4.png)
+c:\Users\Acer\Desktop\Devops\LinkdinPosts\day30\1.png
+
 ---
 
 ### Task 2: Image Layers
